@@ -2,6 +2,12 @@
 
 https://wuyichen.shinyapps.io/hiDIP_20190627/
 
+## Description
+
+Estimation and decomposition of Species、Phylogenetic and Functional Diversity.
+
+The result of estimate value and graphics are allowed download.
+
 ## Developer
 
 Species Diversity : 羅晧鈞 ( 2018 )
