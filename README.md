@@ -1,4 +1,6 @@
-# hiDIP-Online-Shiny-app-
+# hiDIP Online
 
 https://wuyichen.shinyapps.io/hiDIP_20190627/
+
+## Developer
 
