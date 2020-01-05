@@ -10,11 +10,11 @@ The result of estimate value and graphics are allowed to download.
 
 ## Developer
 
-Species Diversity : 羅晧鈞 ( 2018 )
+Species Diversity : Luo, Haw - Juin ( 2018 )
 
-Phylogenetic Diversity : 周幼敏 ( 2018 )
+Phylogenetic Diversity : Chou, Yu - Min ( 2018 )
 
-Functional Diversity : 林依靜 ( 2018 )、吳亦振 Wu, Yi - Chen ( 2019 )
+Functional Diversity : Lin, Yi - Ching ( 2018 )、吳亦振 Wu, Yi - Chen ( 2019 )
 
 ## Mentor
 
