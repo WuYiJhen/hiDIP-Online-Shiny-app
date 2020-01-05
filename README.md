@@ -10,7 +10,7 @@ The result of estimate value and graphics are allowed to download.
 
 ## Developer
 
-Species Diversity : Luo, Haw - Juin ( 2018 )
+Species Diversity : Luo, Haw - Jiun ( 2018 )
 
 Phylogenetic Diversity : Chou, Yu - Min ( 2018 )
 
